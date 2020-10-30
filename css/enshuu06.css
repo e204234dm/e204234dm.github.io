@@ -1,0 +1,13 @@
+h1{
+    color:#ff15ff;
+    font-size:25px;
+    font-weight: normal;
+    font-family:"Impact" ;
+    text-align: center;
+    background-color: aqua;
+}
+p{
+    background-color:firebrick;
+}
+body{
+    background-image: url(../images/02.jpg);
