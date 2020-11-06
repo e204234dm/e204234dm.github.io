@@ -1,10 +1,10 @@
 h1{
-    color:fuchsia;
+    color:chocolate;
     font-size:50px;
     font-weight: 100;
     font-family:'HG行書体' ;
     text-align: center;
-    background-color:black;
+    background-color:floralwhite;
 }
 h2{
     color:aqua;
@@ -27,6 +27,16 @@ p{
     font-family:'ＭＳ ゴシック' ;
 }
 body{
-    background-image: url(../images/05.jpg);}
+    background-image: url(../images/kyuujou_02.jpg);
+}
 
+table{
+     background-color:aqua;
+   
+}
+    
+ol{
+     background-image: url(../images/tuti_01.jpg);
+    color: fuchsia;
+}
 
