@@ -1,0 +1,44 @@
+h1{
+    color:chocolate;
+    font-size:50px;
+    font-weight: 100;
+    text-align: center;
+    background-color:lightseagreen;
+}
+h2#ado{
+    color:aqua;
+    font-size:20px;
+    font-weight: 100;
+    font-family:'HG正楷書体-PRO' ;
+    text-align: center;
+     background-color:yellowgreen;
+}
+h2#rekishi{
+    color:green;
+    font-size:20px;
+    font-weight: 100;
+    font-family: '游ゴシック';
+    text-align: center;
+     background-color:yellow;
+}
+h2#koko{
+    color:deeppink;
+    font-size:40px;
+    font-weight: 100;
+    font-family:'HGP行書体' ;
+    text-align: center;
+     background-color:darksalmon;
+}
+h3{
+    color:blue;
+    font-size:20px;
+    font-weight: 100;
+    font-family:serif ;
+}
+body{
+    background-image:url(../images/kikagaku01.jpg);
+}
+
+
+    
+
