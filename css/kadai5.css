@@ -1,0 +1,50 @@
+.title{
+    width: 1000px;
+    height: 40px;
+    background-color: antiquewhite;
+    margin-bottom: 20px;
+}
+.si{
+    font-size: 20px;
+    background-color: aqua;
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.io{
+    font-size: 20px;
+    width: 700px;
+    height: 300px;
+    background-color: brown;
+    margin: 0px 0px 0px 50px;
+}
+.co{
+    font-size: 20px;
+    width: 700px;
+    height: 20px;
+    margin: 0px 0px 0px 50px;
+    background-color: darkgreen;
+}
+.oiu{
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.hij{
+    display: inline-block;
+    vertical-align: top;
+    width: 700px;
+}
+.footer{
+     width: 1000px;
+    height: 50px;
+    background-color:blue;
+    text-align: right;
+    font-size: 40px;
+    font-family: "Impact";
+    margin-top: 20px;
+}
+.ai{
+    font-size: 0px;
+    width: 1000px;
+}
