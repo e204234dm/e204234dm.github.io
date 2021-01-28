@@ -1,0 +1,126 @@
+
+.title{
+    width: 1000px;
+    height: 40px;
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 30px;
+}
+.si{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    background-color: aqua;
+    width: 250px;
+    height: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.si1{
+    display: inline-block;
+    vertical-align: top;
+    background-color: aqua;
+    width: 240px;
+    height: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.si2{
+    display: inline-block;
+    vertical-align: top;
+    background-color: aqua;
+    width: 240px;
+    height: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.si3{
+    display: inline-block;
+    vertical-align: top;
+    background-color: aqua;
+    width: 240px;
+    height: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.koko{
+    text-align: center;
+    width:825;
+    height:30;
+    background-color: dodgerblue;
+}
+.aoi{
+    text-align: center;
+}
+
+.io{
+    font-size: 8px;
+    width: 825px;
+    height: 1000px;
+    background-color: greenyellow;
+    margin: -12px 0px 30px 20px;
+}
+.co{
+    font-size: 20px;
+    width: 700px;
+    height: 20px;
+    margin: 0px 0px 0px 50px;
+    background-color: darkgreen;
+}
+.oiu{
+    display: inline-block;
+    vertical-align: top;
+}
+.hij{
+    display: inline-block;
+    vertical-align: top;
+    width: 725px;
+}
+.footer{
+     width: 1000px;
+    height: 50px;
+    background-color:blue;
+    text-align: right;
+    font-size: 40px;
+    font-family: "Impact";
+    margin-top: 20px;
+}
+.ai{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0px;
+    width: 1000px;
+}
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
+.tit{
+    margin-left: 150px;
+    width: 700px;
+    height: 40px;
+    background-color:darkseagreen;
+    text-align: center;
+    font-size: 30px;
+    
+}
+.lolo{
+    margin: 10px 0px 10px 150px;
+    width: 700px;
+    height: 2250px;
+    background-color: aqua;
+}
+.popo{
+    width: 700px;
+    height: 25px;
+    margin: 10px 0px 10px 150px;
+    background-color: deepskyblue;
+    font-family: "Inpact";
+    text-align: center;
+}

@@ -1,0 +1,61 @@
+
+.title{
+    margin: auto;
+    width: 1000px;
+    height: 40px;
+    background-color: antiquewhite;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.si{
+    font-size: 20px;
+    background-color: aqua;
+    width: 150px;
+    height: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.koko{
+    text-align: center;
+    width:825;
+    height:30;
+    background-color: dodgerblue;
+}
+.aoi{
+    margin: auto;
+    text-align: center;
+}
+
+.io{
+    font-size: 8px;
+    width: 825px;
+    height: 1100px;
+    background-color: greenyellow;
+    margin: -12px 0px 30px 20px;
+}
+.co{
+    font-size: 20px;
+    width: 700px;
+    height: 20px;
+    margin: 0px 0px 0px 50px;
+    background-color: darkgreen;
+}
+.oiu{
+    display: inline-block;
+    vertical-align: top;
+}
+.hij{
+    margin: auto;
+    display: inline-block;
+    vertical-align: top;
+    width: 725px;
+}
+.ai{
+    font-size: 0px;
+    width: 1000px;
+}
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
